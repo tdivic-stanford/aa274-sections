@@ -1,2 +1,2 @@
-# aa274-sections
-Code for AA 274A Sections.
+# AA 274A Sections
+Necessary files for AA 274A Sections.
